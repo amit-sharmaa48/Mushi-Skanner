@@ -1,0 +1,3 @@
+<?php
+
+// pdo class goes here...
